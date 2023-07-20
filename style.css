@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 10px;
+    border-radius: 15px;
+}
+
+a:hover {
+    color: #ADD8E6;
+}
